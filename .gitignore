@@ -1,0 +1,10 @@
+# Local temporary workspace folders
+_tmp_Ustar_HP20M/
+
+# Keil MDK user-specific files
+*.uvoptx
+*.uvguix.*
+
+# Keil build output folders
+LPuart/MDK-ARM/LPuart/
+LPuart2/MDK-ARM/LPuart2/
